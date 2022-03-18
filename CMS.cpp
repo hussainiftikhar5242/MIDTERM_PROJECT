@@ -2,7 +2,8 @@
 #include<stdlib.h>
 using namespace std;
 main()
-{  // start of main  
+{  
+    //------------------------------start of main  
     cout<<"*******************************************************"<<endl;
     cout<<"*         COLLEGE MANAGEMENT SYSTEM                   *"<<endl;
     cout<<"*******************************************************"<<endl;
